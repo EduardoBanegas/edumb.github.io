@@ -1,0 +1,29 @@
+commit 2a6ab999080dfe18151dc9e09bec213ba1097860
+Author: EduardoBanegas <eduardomontanobanegas@gmail.com>
+Date:   Fri Aug 3 22:46:34 2018 -0400
+
+    Agregamos una console a app.js
+
+commit b8c915abdd964109b027d4e630e8e1b2e888562f
+Author: EduardoBanegas <eduardomontanobanegas@gmail.com>
+Date:   Fri Aug 3 22:45:26 2018 -0400
+
+    Iniciamos
+
+commit c7489bc60808916094b4d3a734c66d116d0fe334
+Author: EduardoBanegas <eduardomontanobanegas@gmail.com>
+Date:   Thu Aug 2 23:16:21 2018 -0400
+
+    He agregado un gitignore
+
+commit f93e4872326a540f11d99691e5ea9184585e9255
+Author: EduardoBanegas <eduardomontanobanegas@gmail.com>
+Date:   Thu Aug 2 23:06:36 2018 -0400
+
+    Ahora el index tiene codigo html
+
+commit 8239b3a46794205f6cc7ce2a265ad0228d89b972
+Author: EduardoBanegas <Eduardomontanobanegas@gmail.com>
+Date:   Thu Aug 2 22:57:05 2018 -0400
+
+    Mi primer commit
